@@ -81,7 +81,7 @@ ORDER_DETAILS(order_no, prod_code, order_qty, order_price)
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### Prerequisites
 - [PostgreSQL](https://www.postgresql.org/download/)
@@ -104,7 +104,7 @@ ORDER_DETAILS(order_no, prod_code, order_qty, order_price)
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 - **PostgreSQL** — Database management system
 - **pgAdmin 4** — GUI for database management
@@ -112,7 +112,7 @@ ORDER_DETAILS(order_no, prod_code, order_qty, order_price)
 
 ---
 
-## 📚 SQL Concepts Used
+##  SQL Concepts Used
 
 - `JOIN` (INNER, LEFT)
 - Aggregate functions (`SUM`, `AVG`, `MAX`, `MIN`, `COUNT`)
